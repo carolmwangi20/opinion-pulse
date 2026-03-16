@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyPollApp</string>
+    <string name="my_poll_app">My Poll App</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="create_account">Create Account</string>
+</resources>
